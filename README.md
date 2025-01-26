@@ -131,7 +131,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Shounbourgh     | 2.145.010.000 | 2.145.010.999 |
 | arcalys         | 2.145.100.000 | 2.145.100.999 |
 | Jakob           | 2.147.483.600 | 2.147.483.609 |
-| Patchara        | 2.149.100.000 | 2.149.999.999 |
+| Patchara        | 2.149.100.000 | 2.149.100.999 |
 
 ### How To
 
